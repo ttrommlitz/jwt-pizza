@@ -16,7 +16,7 @@ I wanted to do something with the fact that userId's are generated in an increme
 | Severity       | 3                                                                              |
 | Description    | Brute force try passwords                                                      |
 | Images         | ![script](../self.jpeg)                                                        |
-| Corrections    | I would have done turbo attacks but I didn't want to get charged. Correction is to enforce rate limiting for auth endpoints.                        |
+| Corrections    | I would have done turbo attacks but I didn't want to get charged. Correction: enforce rate limiting for auth endpoints.                        |
 
 
 ## Bethany Edwards Peer Attack
